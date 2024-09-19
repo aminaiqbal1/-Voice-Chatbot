@@ -8,3 +8,4 @@ langchain_core
 gtts
 faiss-cpu
 streamlit_mic_recorder
+pypdf
