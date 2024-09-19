@@ -1,0 +1,11 @@
+Requirements file main ye add kr lain:
+streamlit
+langchain
+langchain_google_genai
+langchain_cohere
+langchain_community
+langchain_text_splitters
+langchain_core
+gtts
+faiss-cpu
+streamlit_mic_recorder
